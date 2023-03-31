@@ -13,7 +13,7 @@
 
 Name:		timidity-patch-SGM-Piano-Guitars-Basses
 Version:	2.01.1.3
-Release:	1
+Release:	2
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
